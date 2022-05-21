@@ -1,5 +1,3 @@
-# mongoose-cats-CRUD
-
 
 # Express & MongoDB/Mongoose Cats CRUD 
 ### May 21st, 2022
